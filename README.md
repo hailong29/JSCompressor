@@ -9,7 +9,7 @@
 
 安装
 ----
-下载并解压JSCompressor软件压缩包.zip
+下载并解压`JSCompressor软件压缩包.zip`
 
 使用
 ----
